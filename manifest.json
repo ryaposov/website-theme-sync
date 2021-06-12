@@ -1,14 +1,10 @@
 {
   "name": "Auth Theme Switcher",
-  "manifest_version": 3,
+  "manifest_version": 2,
   "version": "0.1",
   "description": "Keeps the web page color theme settings in sync with system color theme.",
   "permissions": [
-    "background",
-    "scripting"
-  ],
-  "host_permissions": [
-    "https://*.slack.com/*/*"
+    "background"
   ],
   "content_scripts": [
     {
