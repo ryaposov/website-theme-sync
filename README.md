@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <h3 align="center">Web System Theme Sync</h3>
+  <h3 align="center">Theme Syncer</h3>
 
   <p align="center">
     Small web extension that syncs the color theme of the website with the system.
