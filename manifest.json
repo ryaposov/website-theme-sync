@@ -8,9 +8,6 @@
     "400": "icons/400x400.png",
     "600": "icons/600x600.png"
   },
-  "permissions": [
-    "background"
-  ],
   "content_scripts": [
     {
       "matches": ["https://*.slack.com/*"],
