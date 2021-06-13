@@ -1,7 +1,9 @@
 <br />
 <p align="center">
+  <p align="center">
+    <img src="icons/vector.svg" alt="Icon" width="80">
+  </p>
   <h3 align="center">Website Theme Sync</h3>
-
   <p align="center">
     Small web extension that syncs the color theme of the website with the system.
     <br />
