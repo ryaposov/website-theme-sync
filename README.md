@@ -23,3 +23,14 @@ Some web apps have full light/dark theme support, but don't allow you to sync it
 * Slack.com
 * Coderslang.com
 * ~~Notion~~ (theme sync is supported now)
+
+## How to install
+
+Only Chrome Browser is currently supported. Also works in Safari, but requires too many hacks. For Chrome:
+
+* Clone/download this repository and place it somewhere where you keep you applications installed
+* Open `chrome://extensions`
+* Toggle "Developer Mode" on in the top right corner
+* Click "Load unpacked" button in the top left corner and select folder of downloaded repository
+* Click "Details" button on the installed extension in the list and make sure you have "Automatically allow access on the following sites" on
+* Done! Now Slack opened in Chrome tab will sync the color theme with your system.
