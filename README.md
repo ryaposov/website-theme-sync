@@ -18,5 +18,6 @@ Some web apps have full light/dark theme support, but don't allow you to sync it
 
 ## Supported web apps
 
-* Slack
+* Slack.com
+* Coderslang.com
 * ~~Notion~~ (theme sync is supported now)

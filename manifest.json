@@ -15,6 +15,10 @@
     {
       "matches": ["https://*.slack.com/*"],
       "js": ["slack.js"]
+    },
+    {
+      "matches": ["https://*.coderslang.com/*"],
+      "js": ["coderslang.js"]
     }
   ]
 }
