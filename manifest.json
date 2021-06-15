@@ -16,6 +16,10 @@
     {
       "matches": ["https://*.coderslang.com/*"],
       "js": ["coderslang.js"]
+    },
+    {
+      "matches": ["https://*.twitter.com/*"],
+      "js": ["twitter.js"]
     }
   ]
 }
