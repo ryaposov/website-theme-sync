@@ -6,9 +6,9 @@
   <h3 align="center">Website Theme Sync</h3>
   <p align="center">
     Small web extension that syncs the color theme of the website with the system.
+<!--     <br />
     <br />
-    <br />
-    <a href="https://ryaposov.com">View Demo</a>
+    <a href="https://ryaposov.com">View Demo</a> -->
   </p>
 </p>
 <br />
