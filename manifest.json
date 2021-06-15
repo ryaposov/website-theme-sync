@@ -1,6 +1,6 @@
 {
   "name": "Website Theme Sync",
-  "manifest_version": 2,
+  "manifest_version": 3,
   "version": "0.1",
   "description": "Keeps the web page color theme settings in sync with system color theme.",
   "icons": {
