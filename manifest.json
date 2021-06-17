@@ -1,7 +1,7 @@
 {
   "name": "Website Theme Sync",
-  "manifest_version": 3,
-  "version": "0.1",
+  "manifest_version": 2,
+  "version": "0.2",
   "description": "Keeps the web page color theme settings in sync with system color theme.",
   "icons": {
     "200": "icons/200x200.png",
@@ -21,5 +21,10 @@
       "matches": ["https://*.twitter.com/*"],
       "js": ["twitter.js"]
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "update_url": "https://raw.githubusercontent.com/ryaposov/website-theme-sync/main/dist/updates.json"
+    }
+  }
 }

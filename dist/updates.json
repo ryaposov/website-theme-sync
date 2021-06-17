@@ -1,0 +1,15 @@
+{
+  "addons": {
+    "{ab5af5e4-0d96-4311-a631-e0b52ea14567}": {
+      "updates": [
+        {
+          "version": "0.2",
+          "update_link": "https://example.com/addon-0.1.xpi",
+          "browser_specific_settings": {
+            "gecko": { "strict_min_version": "48" }
+          }
+        }
+      ]
+    }
+  }
+}
