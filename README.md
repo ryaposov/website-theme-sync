@@ -29,6 +29,7 @@ Some web apps have full light/dark theme support, but don't allow you to sync it
 
 - Chrome: https://chrome.google.com/webstore/detail/website-theme-sync/nofdgmcbecpbdgcmlpmcfkpgdefomjbn
 - Opera: https://addons.opera.com/en-gb/extensions/details/website-theme-sync/
+- Microsoft Edge: https://microsoftedge.microsoft.com/addons/detail/website-theme-sync/mcgbjedbohehdgeofhpkipmkpmgnemcj
 - Firefox: 
   1. Download the distribution package here: https://raw.githubusercontent.com/ryaposov/website-theme-sync/main/dist/website_theme_sync-0.2-fx.xpi
   2. Open `about:addons` in Firefox and drag-and-drop downloaded package into the opened page.
